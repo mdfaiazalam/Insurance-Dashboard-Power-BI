@@ -6,3 +6,4 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 * Premium Amount: ₹5.98M (Total premium collected)
 * Coverage Amount: ₹600.55M (Total coverage provided)
 * Claim Amount: ₹16.91M (Total claims paid out)
+## 2️⃣ Premium Collection by Policy Type
