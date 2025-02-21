@@ -38,3 +38,14 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 ## 6️⃣ Claims by Policy Type
 
 * Detailed breakdown of Pending, Rejected, and Settled claims for each policy type.
+## 🎯 Business Insights
+
+✅ Travel insurance generates the highest premium revenue.
+✅ High rejection rate (4.4K claims) needs further investigation.
+✅ Adult policyholders file the most claims (₹8.8M total claim amount).
+✅ 60.7% policies are active, showing good retention but with room for improvement.
+
+
+
+
+
