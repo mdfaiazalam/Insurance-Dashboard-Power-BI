@@ -15,7 +15,7 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 * Home Insurance - ₹0.6M
 ## 3️⃣ Claims Processing Status
 
-* Rejected Claims: 4.4K
+* Rejected Claims: 4.4K 
 
 * Settled Claims: 3.4K
 
