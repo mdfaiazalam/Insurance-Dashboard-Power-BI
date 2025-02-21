@@ -54,9 +54,18 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 ## 🛠️ Tools & Technologies
 
 * Power BI for data visualization
-
 * SQL/Excel for data processing
-
 * Insurance Dataset (Dummy data for analysis)
+
+## 📜 How to Use the Dashboard
+
+* 1️⃣ Open the Power BI file (.pbix).
+* 2️⃣ Connect to the relevant data sources (if needed).
+* 3️⃣ Use the filters and slicers to explore different insights.
+* 4️⃣ Analyze trends and take data-driven decisions.
+## 📞 Support & Contact
+
+For queries or suggestions, feel free to reach out to Md Faiaz Alam at faiazalam632019@gmail.com.
+
 
 
