@@ -67,5 +67,8 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 
 For queries or suggestions, feel free to reach out to Md Faiaz Alam at faiazalam632019@gmail.com.
 
-
+#### 📌 Created By: Md Faiaz Alam
+#### 📅 Last Updated: February 2025
+#### 📊 Project Type: Data Analytics (Insurance)
+#### 🚀 Skills Used: Power BI | SQL | Data Visualization
 
