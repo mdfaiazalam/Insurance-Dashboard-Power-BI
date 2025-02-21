@@ -45,7 +45,18 @@ This Power BI Dashboard provides a comprehensive analysis of an Insurance Compan
 * ✅ Adult policyholders file the most claims (₹8.8M total claim amount).
 * ✅ 60.7% policies are active, showing good retention but with room for improvement.
 
+## 🚀 Future Enhancements
 
+* 🔹 Add time-based analysis (monthly/quarterly trends).
+* 🔹 Include Claim Rejection Reasons to optimize approval processes.
+* 🔹 Introduce Profitability Metrics (Premium vs Claims paid).
+* 🔹 Provide Interactive Filters for policyholder demographics.
+## 🛠️ Tools & Technologies
 
+* Power BI for data visualization
+
+* SQL/Excel for data processing
+
+* Insurance Dataset (Dummy data for analysis)
 
 
